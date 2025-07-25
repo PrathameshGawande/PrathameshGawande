@@ -10,11 +10,9 @@
 <br/> 
 
 <div align="center">
-💼 I’m currently working on Learning FULLSTACK web development and ENTC Engineering.
-🌱 I’m currently learning Mern stack and core ENTC subjects.
-💬 Ask me about My journey from diploma to degree and switching to IT.
-⚡ Fun fact I’m from an ENTC background but passionate about tech!
-</div>
+🎓 I'm currently pursuing my 2nd year of Engineering in Electronics & Telecommunication <br>  (ENTC) after completing my diploma in the same field. <br>
+💻 I'm actively transitioning into the world of tech by learning Full-Stack Web Development (MERN stack).<br>
+🔧 I'm passionate about building projects that bridge hardware 🛠️ with software 💡. <br></div>
 
 <div align="center"> 
   
@@ -60,20 +58,21 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=PrathameshGawande&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=PrathameshGawande&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/> <br> 
   <img width=390 src="https://nirzak-streak-stats.vercel.app/?user=PrathameshGawande&theme=dark&hide_border=false" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshGawande&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    <br> 
 </div>
 
 <br/><br/>
 
 <hr/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrathameshGawande&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="center">🔝 Top Contributed Repo </h2>
+ <div align=center>
+<a herf= "https://github-contributor-stats.vercel.app/api?username=PrathameshGawande&limit=5&theme=dark&combine_all_yearly_contributions=true">
 
----
-[![](https://visitcount.itsvg.in/api?id=PrathameshGawande&icon=1&color=0)](https://visitcount.itsvg.in)
-
+<a herf= "https://visitcount.itsvg.in/api?id=PrathameshGawande&icon=1&color=0)](https://visitcount.itsvg.in">
+</div>
 <br/>

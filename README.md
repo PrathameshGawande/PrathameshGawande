@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Instagram-FF0069?logo=instagram&logoColor=fff&style=for-the-badge" />
   </a>
 
-<a herf= "__ameyy__">
+<a herf= "https://x.com/__ameyy__?t=Oef0SX1y9qFnWcJmjthL0Q&s=09">
 <img src="https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge"/>
 
 </div>
